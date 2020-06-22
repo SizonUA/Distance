@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" width="1280" height="1024"
+    viewBox="0 0 1280 1024"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ev="http://www.w3.org/2001/xml-events"
+>
 <!-- Begin Header -->
   <symbol id="users" viewBox="0 0 20 20">
     <g>
